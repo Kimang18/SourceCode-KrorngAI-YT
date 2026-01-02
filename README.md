@@ -13,3 +13,8 @@ __Please use this badge to open the notebook__: [![Open in Colab](https://colab.
 you will learn to install python 3.11 in colab and develop Gradio App for Data Analysis by integrating Llamafile with PandasAI Agent.
 
 __Please use this badge to open the notebook__: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kimang18/rag-demo-with-mlx/blob/main/API_based_Gradio_App.ipynb)
+
+## Train Your Own Small Language Model for Text Generation from Scratch, code provided
+In this video, you will learn about tokenizer and how to train small language model for text generation using tror-yong-lm pypi package in python.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kimang18/rag-demo-with-mlx/blob/main/TrorYong_Small_Language_Model_from_Scratch.ipynb)
