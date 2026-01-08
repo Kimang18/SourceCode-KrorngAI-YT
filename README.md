@@ -4,6 +4,19 @@ Source of YouTube video series about Retrieval Augmented Generation using `mlx` 
 
 The playlist can be found [here](https://www.youtube.com/playlist?list=PLMByKZ5HTjfZgW9LU0Q2nucynz0MtLboz)
 
+# Support My Work
+
+While this work comes truly from the heart, each video represents a significant investment of time -- from deep-dive research and code preparation to the final narrative and editing process.
+I am incredibly passionate about sharing this knowledge, but maintaining this level of quality is a major undertaking.
+If you find these videos helpful and are in a position to do so, please consider supporting my work with a donation.
+You can click <a href="https://pay.ababank.com/oRF8/8yp6hy53">here</a> to donate or scan the QR code below.
+Your generosity acts as a huge encouragement and helps ensure that I can continue creating in-depth, valuable content for you.
+
+<figure>
+  <div style="text-align: center;"><a name='slotMachine' ><img src="https://kimang18.github.io/assets/fig/aba_qr_kimang.JPG" width="500" /></a></div>
+  <figcaption> Using Cambodian bank account, you can donate by scanning my ABA QR code here. (or click <a href="https://pay.ababank.com/oRF8/8yp6hy53">here</a>. Make sure that receiver's name is 'Khun Kim Ang'.) </figcaption>
+</figure>
+
 ## Local RAG with Llamafile (NO High End GPUs Required)
 Learn how to implement the pipeline of Retrieval Augmented Generation with Llamafile from scratch.
 
