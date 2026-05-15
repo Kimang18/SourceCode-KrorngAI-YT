@@ -17,10 +17,18 @@ Your generosity acts as a huge encouragement and helps ensure that I can continu
   <figcaption> Using Cambodian bank account, you can donate by scanning my ABA QR code here. (or click <a href="https://pay.ababank.com/oRF8/8yp6hy53">here</a>. Make sure that receiver's name is 'Khun Kim Ang'.) </figcaption>
 </figure>
 
+
+## Speech Recognition: Fine-tuning TrorYongASR for Custom Dataset
+Easy and Quick Fine-tune TrorYongASR for your custom dataset using Colab with GPU.
+
+__Please use this badge to open the notebook__: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kimang18/rag-demo-with-mlx/blob/main/Finetune_TrorYongASR.ipynb)
+
+
 ## Coding Muon + AdamW Hybrid Optimizer for Small Language Model
 Let's code a hybrid optimizer based on Muon and AdamW in PyTorch and use it to train a SLM.
 
 __Please use this badge to open the notebook__: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kimang18/rag-demo-with-mlx/blob/main/MuonAdamTrorYong_Small_Language_Model_from_Scratch.ipynb)
+
 
 ## Take full advantage of your GPUs with Lightning-AI and Hydra | Demo on Colab
 Learn to use PyTorch Lightning and Hydra to take the most advantage of your computing resources to train your AI model.
