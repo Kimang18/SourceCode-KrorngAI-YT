@@ -1,4 +1,4 @@
-# YouTube RAG Demo
+# Python Scripts and Notebooks for KrorngAI YouTube
 
 Source of YouTube video series about Retrieval Augmented Generation using `mlx` framework and `pytorch`.
 
